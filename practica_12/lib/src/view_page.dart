@@ -20,7 +20,7 @@ class _ViewPageState extends State<ViewPage> {
             future:
             DefaultAssetBundle.of(context).loadString('assets/pokedex.json'),
             initialData: [],
-            builder: (BuildContext contect, AsyncSnapshot snapshot) {
+            builder: (BuildContext context, AsyncSnapshot snapshot) {
               var showData = json.decode(snapshot.data.toString());
 
               return ListView.builder(
