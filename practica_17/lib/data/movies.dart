@@ -1,0 +1,10 @@
+final List<Map<String, dynamic>> movies = [{"id":1,"title_name":"Comin' at Ya!","Genres":"Western","image":"http://dummyimage.com/220x100.png/ff4444/ffffff"},
+  {"id":2,"title_name":"Ladies Man, The","Genres":"Comedy","image":"http://dummyimage.com/214x100.png/ff4444/ffffff"},
+  {"id":3,"title_name":"Legally Blonde","Genres":"Comedy|Romance","image":"http://dummyimage.com/250x100.png/ff4444/ffffff"},
+  {"id":4,"title_name":"Phantasm IV: Oblivion","Genres":"Horror","image":"http://dummyimage.com/210x100.png/ff4444/ffffff"},
+  {"id":5,"title_name":"Candidate, The","Genres":"Drama","image":"http://dummyimage.com/239x100.png/ff4444/ffffff"},
+  {"id":6,"title_name":"Leonard Part 6","Genres":"Comedy|Sci-Fi","image":"http://dummyimage.com/174x100.png/ff4444/ffffff"},
+  {"id":7,"title_name":"Network","Genres":"Comedy|Drama","image":"http://dummyimage.com/183x100.png/ff4444/ffffff"},
+  {"id":8,"title_name":"Zulu","Genres":"Crime|Drama|Thriller","image":"http://dummyimage.com/229x100.png/ff4444/ffffff"},
+  {"id":9,"title_name":"The Man From The Alamo","Genres":"Western","image":"http://dummyimage.com/133x100.png/5fa2dd/ffffff"},
+  {"id":10,"title_name":"Shortbus","Genres":"Comedy|Drama|Romance","image":"http://dummyimage.com/108x100.png/5fa2dd/ffffff"}];
